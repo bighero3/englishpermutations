@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct  1 12:32:24 2017
-this gives the seven letter word in that game
-@author: pi314
-"""
+
 
 def englishperms(x):
     from nltk.corpus import words
